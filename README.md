@@ -1,6 +1,6 @@
 # @videogpt/catalog
 
-[![Website](https://img.shields.io/badge/website-videogpt.dev-7c3aed)](https://videogpt.dev)
+[![Website](https://img.shields.io/badge/website-kinoforge.dev-7c3aed)](https://kinoforge.dev)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/videogpt-dev/videogpt-catalog)](https://github.com/videogpt-dev/videogpt-catalog/commits/main)
 
