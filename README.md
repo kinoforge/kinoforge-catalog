@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/badge/website-kinoforge.dev-7c3aed)](https://kinoforge.dev)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/videogpt-dev/videogpt-catalog)](https://github.com/videogpt-dev/videogpt-catalog/commits/main)
+[![Last commit](https://img.shields.io/github/last-commit/kinoforge/kinoforge-catalog)](https://github.com/kinoforge/kinoforge-catalog/commits/main)
 
 This package is just data, not service. It has no database, HTTP API, queue, or execution code.
 
-[Kinoforge](https://github.com/videogpt-dev/kinoforge) does not import it. Runtime resolve catalog definitions, then call Kinoforge through REST.
+[Kinoforge](https://github.com/kinoforge/kinoforge) does not import it. Runtime resolve catalog definitions, then call Kinoforge through REST.
 
 ## Core alignment
 
