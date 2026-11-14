@@ -1,4 +1,4 @@
-# @videogpt/catalog
+# @kinoforge/catalog
 
 [![Website](https://img.shields.io/badge/website-kinoforge.dev-7c3aed)](https://kinoforge.dev)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)

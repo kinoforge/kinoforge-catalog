@@ -1,7 +1,7 @@
 {
   "$schema": "./schemas/catalog.schema.json",
   "schema_version": 1,
-  "id": "videogpt-community",
+  "id": "kinoforge-community",
   "version": "0.0.0-dev",
   "engine": {
     "minimum": "0.1.0"

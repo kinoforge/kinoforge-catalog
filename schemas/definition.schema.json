@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://videogpt.dev/schemas/catalog/v1/definition.schema.json",
+  "$id": "https://kinoforge.dev/schemas/catalog/v1/definition.schema.json",
   "title": "Kinoforge catalog definition",
   "type": "object",
   "additionalProperties": false,
